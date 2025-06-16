@@ -36,38 +36,38 @@ Update-Database -Context LoyaltyDbContext
 
 ## 🚀 Główne endpointy
 ### ReaderService
-GET /api/readers
+GET /api/Readers
 
-POST /api/readers
+POST /api/Readers
 
-PUT /api/readers/{id}
+PUT /api/Readers/{id}
 
-DELETE /api/readers/{id}
+DELETE /api/Readers/{id}
 
 ### BookRentalService
 #### Books Controller
 
-GET /api/books
+GET /api/Books
 
-POST /api/books
+POST /api/Books
 
-PUT /api/books/{id}
+PUT /api/Books/{id}
 
-DELETE /api/books/{id}
+DELETE /api/Books/{id}
 
 #### Rentals Controller
 
-GET /api/rentals/{readerid}
+GET /api/Rentals/{readerid}
 
-POST /api/rentals
+POST /api/Rentals
 
-PUT /api/rentals/return/{id}
+PUT /api/Rentals/return/{id}
 
 ### LoyaltyService
-GET /api/loyalty/{readerId}
+GET /api/Loyalty/{readerId}
 
-POST /api/loyalty/add
+POST /api/Loyalty/add
 
-PUT /api/loyalty/{readerId}
+PUT /api/Loyalty/{readerId}
 
-DELETE /api/loyalty/{readerId}
+DELETE /api/Loyalty/{readerId}
