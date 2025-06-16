@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Downloads\\BookRentalService\\BookRentalService\\BookRentalService.csproj": {}
+    "D:\\Downloads\\repositorium\\BookRentalService\\BookRentalService\\BookRentalService.csproj": {}
   },
   "projects": {
-    "D:\\Downloads\\BookRentalService\\BookRentalService\\BookRentalService.csproj": {
+    "D:\\Downloads\\repositorium\\BookRentalService\\BookRentalService\\BookRentalService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Downloads\\BookRentalService\\BookRentalService\\BookRentalService.csproj",
+        "projectUniqueName": "D:\\Downloads\\repositorium\\BookRentalService\\BookRentalService\\BookRentalService.csproj",
         "projectName": "BookRentalService",
-        "projectPath": "D:\\Downloads\\BookRentalService\\BookRentalService\\BookRentalService.csproj",
+        "projectPath": "D:\\Downloads\\repositorium\\BookRentalService\\BookRentalService\\BookRentalService.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "D:\\Downloads\\BookRentalService\\BookRentalService\\obj\\",
+        "outputPath": "D:\\Downloads\\repositorium\\BookRentalService\\BookRentalService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
