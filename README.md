@@ -14,11 +14,12 @@ Aplikacja webowa do zarządzania biblioteką, zawierająca trzy główne moduły
 
 ## 🏁 Szybki start
 
-### Klonowanie repozytorium
+### Pobranie projektu
 
-```bash
-git clone https://github.com/Olesssia/PROJEKT_Szkolenie_techniczne-3_6IID-P-2022-SP01
-```
+1.	Wejdź na stronę repozytorium GitHub z projektem.
+2.	Kliknij Code → Download ZIP.
+3.	Wypakuj plik ZIP do wybranego folderu na dysku, np. C:\Projekty\BookRentalSystem
+
 
 ### Wykonanie migracji
 Otwórz konsolę Package Manager Console i wykonaj:
